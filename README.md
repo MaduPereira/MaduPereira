@@ -24,7 +24,7 @@ Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas
 <details>
 <summary> 📊 Language / Framework stats:</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=MaduPereira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=MaduPereira&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MaduPereira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=MaduPereira&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaduPereira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
