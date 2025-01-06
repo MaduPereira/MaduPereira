@@ -9,7 +9,7 @@
 #### 👩‍💻 Portfólio de Desenvolvimento: [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://madupereira.itch.io)
 
 #### 🔗 Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/madupereira) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
 
 ### ✨ Sobre mim:
 Atualmente cursando Tecnologia em Jogos Digitais no IFBA - Campus Lauro de Freitas, tenho experiência na modelagem e desenvolvimento de softwares, incluindo os projetos “Produtos Naturais e seus Usos no SUS” e “Conhecendo Doenças e Plantas Medicinais”, concluídos durante meu período como bolsista de Iniciação Científica.
