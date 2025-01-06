@@ -29,6 +29,10 @@ Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas
 
 </details>
 
+### 🌈 Jogue Agora:
+[![Jogar Jogo Unicórnio](https://img.shields.io/badge/Jogar%20Jogo%20Unicórnio-%23FF69B4?style=plastic)](https://jogounicornio.netlify.app/)
+
+
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaduPereira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
