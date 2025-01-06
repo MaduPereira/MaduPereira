@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
 
 ### ✨ Sobre mim:
-Atualmente cursando Tecnologia em Jogos Digitais no IFBA - Campus Lauro de Freitas, tenho experiência na modelagem e desenvolvimento de softwares, incluindo os projetos “Produtos Naturais e seus Usos no SUS” e “Conhecendo Doenças e Plantas Medicinais”, concluídos durante meu período como bolsista de Iniciação Científica.
+Atualmente cursando Tecnologia em Jogos Digitais no IFBA (5º semestre) - Campus Lauro de Freitas, tenho experiência na modelagem e desenvolvimento de softwares, incluindo os projetos “Produtos Naturais e seus Usos no SUS” e “Conhecendo Doenças e Plantas Medicinais”, concluídos durante meu período como bolsista de Iniciação Científica.
 
 Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas como Unity, Construct, Maya, Blender, Pacote Adobe, Pacote Office e linguagens como Python, C#, SQL, Html, JavaScript e CSS. Apresentei o trabalho “Explorando a Realidade Virtual” no Conference on Complex Systems 2023, destacando meu interesse em unir criatividade e tecnologia para resolver problemas.
 
