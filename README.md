@@ -16,6 +16,23 @@ Atualmente cursando Tecnologia em Jogos Digitais no IFBA (5º semestre) - Campus
 
 Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas como Unity, Construct, Maya, Blender, Pacote Adobe, Pacote Office e linguagens como Python, C#, SQL, Html, JavaScript e CSS. Apresentei o trabalho “Explorando a Realidade Virtual” no Conference on Complex Systems 2023, destacando meu interesse em unir criatividade e tecnologia para resolver problemas.
 
+### Hi! I'm Madu Pereira, a game creator!  
+- 🔭 I'm currently a Digital Games student.  
+- 🌱 I'm currently diving deeper into C#.  
+- 💬 Ask me about Unity 2D/3D, Blender, Construct, Adobe Photoshop, Adobe Illustrator, Keyshot, C#, Python, SQL, HTML, JavaScript, CSS.  
+- ⚡ Fun fact: I ❤️ 🎮s.  
+
+#### 👩‍🎨 Artistic Portfolio: [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=plastic&logo=ArtStation&logoColor=white)](https://madupereira.artstation.com)
+
+#### 👩‍💻 Development Portfolio: [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://madupereira.itch.io)
+
+#### 🔗 Connect with me: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
+
+### ✨ About Me:  
+Currently pursuing a degree in Digital Games Technology at IFBA (5th semester) - Lauro de Freitas Campus, I have experience in software modeling and development, including the projects *“Natural Products and Their Uses in SUS”* and *“Understanding Diseases and Medicinal Plants”*, completed during my time as a Scientific Initiation scholarship holder.  
+
+My journey combines design, 3D modeling, and development with tools such as Unity, Construct, Maya, Blender, Adobe Suite, Office Suite, and programming languages like Python, C#, SQL, HTML, JavaScript, and CSS. I presented the work *“Exploring Virtual Reality”* at the Conference on Complex Systems 2023, showcasing my passion for merging creativity and technology to solve problems.
+
 ### 💻 Skills:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/default.asp) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)](https://www.w3schools.com/css/) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp) [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org) [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/downloads/)
 
