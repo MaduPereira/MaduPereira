@@ -1,4 +1,6 @@
-### Oiii eu sou a Madu Pereira, criadora de jogos!
+---
+### 🇧🇷 Oiii eu sou a Madu Pereira, criadora de jogos!
+---
 - 🔭 Atualmente sou estudante de Jogos Digitais
 - 🌱 Atualmente estou me aprofundando mais no C#
 - 💬 Pergunte-me sobre Unity 2D/3D, Blender, Construct, Adobe Photoshop, Adobe Illustrator, Keyshot,, C#, Python, SQL, HTML, JavaScript, CSS.
@@ -20,8 +22,8 @@ Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas
 [![Jogo Unicórnio](https://img.shields.io/badge/Jogar%20Jogo%20Unicórnio-%2300BFFF?style=plastic&logo=gamepad&logoColor=white)](https://jogounicornio.netlify.app/)
 
 ---
-
-### Hi! I'm Madu Pereira, a game creator!  
+### 🇺🇸 Hi! I'm Madu Pereira, a game creator!  
+---
 - 🔭 I'm currently a Digital Games student.  
 - 🌱 I'm currently diving deeper into C#.  
 - 💬 Ask me about Unity 2D/3D, Blender, Construct, Adobe Photoshop, Adobe Illustrator, Keyshot, C#, Python, SQL, HTML, JavaScript, CSS.  
