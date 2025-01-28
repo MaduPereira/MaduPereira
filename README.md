@@ -33,7 +33,8 @@ Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas
 
 #### 👩‍💻 Development Portfolio: [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://madupereira.itch.io)
 
-#### 🔗 Connect with me: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
+#### 🔗 Connect with me: 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
 
 ### ✨ About Me:  
 Currently pursuing a degree in Digital Games Technology at IFBA (5th semester) - Lauro de Freitas Campus, I have experience in software modeling and development, including the projects *“Natural Products and Their Uses in SUS”* and *“Understanding Diseases and Medicinal Plants”*, completed during my time as a Scientific Initiation scholarship holder.  
