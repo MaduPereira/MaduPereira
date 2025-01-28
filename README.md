@@ -16,6 +16,11 @@ Atualmente cursando Tecnologia em Jogos Digitais no IFBA (5º semestre) - Campus
 
 Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas como Unity, Construct, Maya, Blender, Pacote Adobe, Pacote Office e linguagens como Python, C#, SQL, Html, JavaScript e CSS. Apresentei o trabalho “Explorando a Realidade Virtual” no Conference on Complex Systems 2023, destacando meu interesse em unir criatividade e tecnologia para resolver problemas.
 
+### 🌈 Jogue Agora:
+[![Jogo Unicórnio](https://img.shields.io/badge/Jogar%20Jogo%20Unicórnio-%2300BFFF?style=plastic&logo=gamepad&logoColor=white)](https://jogounicornio.netlify.app/)
+
+---
+
 ### Hi! I'm Madu Pereira, a game creator!  
 - 🔭 I'm currently a Digital Games student.  
 - 🌱 I'm currently diving deeper into C#.  
@@ -33,6 +38,9 @@ Currently pursuing a degree in Digital Games Technology at IFBA (5th semester) -
 
 My journey combines design, 3D modeling, and development with tools such as Unity, Construct, Maya, Blender, Adobe Suite, Office Suite, and programming languages like Python, C#, SQL, HTML, JavaScript, and CSS. I presented the work *“Exploring Virtual Reality”* at the Conference on Complex Systems 2023, showcasing my passion for merging creativity and technology to solve problems.
 
+### 🌈 Play Now:
+[![Gane Unicorn](https://img.shields.io/badge/Jogar%20Jogo%20Unicórnio-%2300BFFF?style=plastic&logo=gamepad&logoColor=white)](https://jogounicornio.netlify.app/)
+
 ### 💻 Skills:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/default.asp) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)](https://www.w3schools.com/css/) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp) [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org) [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/downloads/)
 
@@ -45,9 +53,6 @@ My journey combines design, 3D modeling, and development with tools such as Unit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaduPereira&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
-
-### 🌈 Jogue Agora:
-[![Jogar Jogo Unicórnio](https://img.shields.io/badge/Jogar%20Jogo%20Unicórnio-%2300BFFF?style=plastic&logo=gamepad&logoColor=white)](https://jogounicornio.netlify.app/)
 
 
 <!--
