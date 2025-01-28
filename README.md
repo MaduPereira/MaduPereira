@@ -7,7 +7,6 @@
 #### 👩‍🎨 Portfólio Artístico: [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=plastic&logo=ArtStation&logoColor=white)](https://madupereira.artstation.com)
 
 #### 👩‍💻 Portfólio de Desenvolvimento: [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://madupereira.itch.io)
-[![GitHub](https://img.shields.io/badge/GitHub-%235C0DCA.svg?style=plastic&logo=GitHub&logoColor=white)](https://github.com/MaduPereira)
 
 #### 🔗 Conecte-se comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
