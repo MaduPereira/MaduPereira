@@ -29,9 +29,9 @@ Minha trajetória combina design, modelagem 3D e desenvolvimento com ferramentas
 - 💬 Ask me about Unity 2D/3D, Blender, Construct, Adobe Photoshop, Adobe Illustrator, Keyshot, C#, Python, SQL, HTML, JavaScript, CSS.  
 - ⚡ Fun fact: I ❤️ 🎮s.  
 
-#### 👩‍🎨 Artistic Portfolio: [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=plastic&logo=ArtStation&logoColor=white)](https://madupereira.artstation.com)
+#### 👩🏻‍🎨 Artistic Portfolio: [![ArtStation](https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=plastic&logo=ArtStation&logoColor=white)](https://madupereira.artstation.com)
 
-#### 👩‍💻 Development Portfolio: [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://madupereira.itch.io)
+#### 👩🏻‍💻 Development Portfolio: [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://madupereira.itch.io)
 
 #### 🔗 Connect with me: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itslamadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madupereira)
